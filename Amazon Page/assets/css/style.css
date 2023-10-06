@@ -1,0 +1,145 @@
+/* Your styles here */
+
+body {
+  margin: 0;
+  background-color: #e9edee;
+}
+
+header {
+  width: 100%;
+  background-color: #222f3f;
+}
+
+header img {
+  width: 150px;
+  padding-left: 15px;
+}
+
+#listalink {
+  text-align: left;
+  letter-spacing: 0.8px;
+  word-spacing: 1.3rem;
+  padding-left: 15px;
+}
+
+#listalink {
+  background-color: #364759;
+  padding: 6px;
+}
+
+ul#menu li {
+  display: inline;
+}
+
+#menu a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: 300;
+}
+
+#principale {
+  padding: 30px 50px 30px 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.primotitolo {
+  background-color: #f56501;
+  padding: 10px;
+  color: white;
+  letter-spacing: 1.4px;
+  word-spacing: 1.4px;
+  font-weight: 600;
+}
+
+#testoimmagine h1 {
+  font-size: 2rem;
+  font-weight: bold;
+
+  color: white;
+}
+
+#testoimmagine p {
+  color: white;
+}
+
+#testoimmagine {
+  background-image: url(../images/bg-image.png);
+  margin: 40px 0 40px 0;
+  padding: 100px;
+}
+#primoblocco {
+  text-align: left;
+  background-color: #ffffff;
+}
+
+.quattroimg img {
+  width: 330px;
+  height: 400px;
+  padding: 30px 10px 20px 10px;
+  border-radius: 20%;
+}
+
+.storta {
+  height: 240px;
+}
+
+#fotovr {
+  margin-top: 25px;
+}
+
+#fotovr img {
+  width: 100%;
+}
+
+#fotovr p a {
+  text-decoration: none;
+  color: #2c6e7f;
+}
+
+#fotovr p {
+  font-weight: 500;
+  padding-top: 5px;
+  font-size: 1.4rem;
+}
+
+#fotoMarshall {
+  margin-top: 25px;
+}
+
+#fotoMarshall img {
+  width: 100%;
+}
+
+#fotoMarshall p a {
+  text-decoration: none;
+  color: #2c6e7f;
+}
+
+#fotoMarshall p {
+  font-weight: 500;
+  padding-top: 5px;
+  font-size: 1.4rem;
+}
+
+#tornasu p {
+  padding: 20px;
+  background-color: #364759;
+}
+#tornasu a {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+#tornasu {
+  text-align: center;
+}
+
+#ultimologo {
+  background-color: #222f3f;
+}
+#ultimologo img {
+  width: 250px;
+  padding: 80px;
+}

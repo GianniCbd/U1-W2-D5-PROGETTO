@@ -73,6 +73,17 @@ ul#menu li {
   background-color: #ffffff;
 }
 
+.para {
+  padding: 20px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.para a {
+  text-decoration: none;
+  color: #2c6e7f;
+}
+
 .quattroimg img {
   width: 330px;
   height: 400px;
@@ -95,6 +106,7 @@ ul#menu li {
 #fotovr p a {
   text-decoration: none;
   color: #2c6e7f;
+  font-weight: bold;
 }
 
 #fotovr p {
@@ -114,6 +126,7 @@ ul#menu li {
 #fotoMarshall p a {
   text-decoration: none;
   color: #2c6e7f;
+  font-weight: bold;
 }
 
 #fotoMarshall p {
